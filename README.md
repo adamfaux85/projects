@@ -1,6 +1,6 @@
 # Commercial & Personal Web Projects
  
-A running list of commercial website projects I've worked on in a front-end development capacity - spanning full builds, redesigns, and ongoing feature work.
+A running list of commercial website projects I've worked on in a front-end development capacity - spanning full builds, redesigns, and feature work.
  
 ---
  
@@ -8,10 +8,9 @@ A running list of commercial website projects I've worked on in a front-end deve
  
 | Project | Client / Site | My Role | Stack | Live URL |
 |---|---|---|---|---|
-| Full Website Build | Geovation | Front-end dev - Full site build in Wordpress, translating brief and existing design system into custom dynamic blocks that the client can use to build out the site. WCAG AAA accessibility requirement. | Wordpress, Custom theme, Custom Blocks | [geovation.uk](https://geovation.uk) |
-| *Dummy E-commerce Rebuild* | Example Retailer Co. | Led front-end rebuild of product & checkout pages | React, Sass, Webpack | example.com |
-| *Dummy Corporate Site Refresh* | Example Corp Ltd | Implemented new design system from Figma; WCAG AA accessibility pass | WordPress, Vue, Less | example.com |
-| *Dummy SaaS Marketing Site* | Example SaaS Inc. | Built responsive marketing pages, CMS integration | HTML5, CSS3, Vanilla JS | example.com |
+| *Full Website Build* | Geovation | Front-end dev - Full site build in Wordpress, translating brief and existing design system into custom dynamic blocks that the client can use to build out the site. WCAG AAA accessibility requirement. | Wordpress, Custom theme, Custom ACF Blocks | [geovation.uk](https://geovation.uk) |
+| *Wordpress Multisite Build* | Sportsbreaks | Front-end dev - Full site build in Wordpress, built upon designs handed over from 3rd party company. Helped develop dynamic blocks that the client used to build out the site. | Wordpress, Multisite, Gutenberg, Figma, Custom Parent/Child Themes, Custom blocks | [sportsbreaks.com](https://www.sportsbreaks.com/) |
+| *Wordpress Multisite Build* | Jigsaw Homes | Front-end dev - Full site build in Wordpress, Helped develop custom themes, templates and custom blocks. Accessibility improvements. | Wordpress, Multisite, Gutenberg, Figma, Custom Themes, Custom blocks | [jigsawhomes.org.uk](https://www.jigsawhomes.org.uk) |
  
 ---
 
